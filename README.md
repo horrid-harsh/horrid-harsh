@@ -1,66 +1,29 @@
-# Harshwardhan Singh Solanki
+# Hey there 👋
 
-B.Tech CSE student focused on full-stack development, backend systems, and cloud-native applications.
+I'm **Harshwardhan Singh Solanki**, a B.Tech CSE student.
 
-Currently working on a multi-agent AI-based capstone project inspired by tools like Vercel v0 and Lovable.
+Currently building a capstone project based on multi-agent workflows for generating applications and UI systems, inspired by tools like v0 and Lovable.
 
----
+I mainly work with full-stack web technologies and currently spend most of my time learning AI systems and infrastructure.
 
-## Projects
+### Tech Stack
 
-### Requiem
-
-Full-stack application built using the MERN stack.
-
-### OpsWatch
-
-Infrastructure and monitoring-focused project.
-
----
-
-## Tech Stack
-
-**Frontend**
-
-* React
-
-**Backend**
-
-* Node.js
-* Express.js
-
-**Database**
-
-* MongoDB
-
-**DevOps / Cloud**
-
+* MERN
 * Docker
-* Kubernetes
-* AWS
+* Kubernetes *(currently learning)*
+* AWS *(currently learning)*
 
----
+### Current Focus
 
-## Currently Exploring
+* AI agents & automation
+* Scalable full-stack apps
+* DevOps fundamentals
+* Better system design
 
-* Multi-agent AI systems
-* Cloud infrastructure
-* Scalable backend architecture
+### Fun Stuff
 
----
+* Anime
+* Debugging at 2AM hits different
+* Probably rebuilding projects instead of sleeping
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horrid-harsh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horrid-harsh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contact
-
-Links are available on my profile.
+:)
