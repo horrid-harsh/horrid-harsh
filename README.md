@@ -1,16 +1,66 @@
-## Hi there 👋
+# Harshwardhan Singh Solanki
 
-<!--
-**horrid-harsh/horrid-harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student focused on full-stack development, backend systems, and cloud-native applications.
 
-Here are some ideas to get you started:
+Currently working on a multi-agent AI-based capstone project inspired by tools like Vercel v0 and Lovable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### Requiem
+
+Full-stack application built using the MERN stack.
+
+### OpsWatch
+
+Infrastructure and monitoring-focused project.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+* React
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+**DevOps / Cloud**
+
+* Docker
+* Kubernetes
+* AWS
+
+---
+
+## Currently Exploring
+
+* Multi-agent AI systems
+* Cloud infrastructure
+* Scalable backend architecture
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=horrid-harsh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horrid-harsh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+Links are available on my profile.
